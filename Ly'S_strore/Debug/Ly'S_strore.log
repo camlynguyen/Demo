@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Admin\source\repos\Ly'S_strore\Ly'S_strore\Job.h(1,9): warning C4068: unknown pragma 'a'
+C:\Users\Admin\source\repos\Ly'S_strore\Ly'S_strore\Job.h(1,9): warning C4068: unknown pragma 'a'
+C:\Users\Admin\source\repos\Ly'S_strore\Ly'S_strore\Main.cpp(2,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Admin\source\repos\Ly'S_strore\Ly'S_strore\Main.cpp(3,19): warning C4101: 'chose': unreferenced local variable
+  Ly'S_strore.vcxproj -> C:\Users\Admin\source\repos\Ly'S_strore\Debug\Ly'S_store.exe
